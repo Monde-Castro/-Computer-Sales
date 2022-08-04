@@ -1,0 +1,14 @@
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\CP\Computer Sales\Computer Sales\bin\Debug\Computer Sales.exe.config
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\CP\Computer Sales\Computer Sales\bin\Debug\Computer Sales.exe
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\CP\Computer Sales\Computer Sales\bin\Debug\Computer Sales.pdb
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\CP\Computer Sales\Computer Sales\bin\Debug\Computer Sales.xml
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\CP\Computer Sales\Computer Sales\obj\Debug\Computer_Sales.frmComputerSales.resources
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\CP\Computer Sales\Computer Sales\obj\Debug\Computer_Sales.Resources.resources
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\CP\Computer Sales\Computer Sales\obj\Debug\Computer Sales.vbproj.GenerateResource.Cache
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\CP\Computer Sales\Computer Sales\obj\Debug\Computer Sales.exe
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\CP\Computer Sales\Computer Sales\obj\Debug\Computer Sales.xml
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\CP\Computer Sales\Computer Sales\obj\Debug\Computer Sales.pdb
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\CP\Computer Sales\Computer Sales\bin\Debug\Computer Sales.exe.manifest
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\CP\Computer Sales\Computer Sales\bin\Debug\Computer Sales.application
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\CP\Computer Sales\Computer Sales\obj\Debug\Computer Sales.exe.manifest
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\CP\Computer Sales\Computer Sales\obj\Debug\Computer Sales.application
